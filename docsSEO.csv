@@ -1,0 +1,30 @@
+URLS,Focus keyword,SEO Changes
+https://docs.dyte.io/android-core/plugins,Plugins in Android,"The webpage for Dyte's Android Core SDK plugins provides detailed information about the use and implementation of plugins in their Android SDK. However, it doesn't explicitly use the keyword ""Plugins in Android"" throughout the content. To optimize the page for SEO with this keyword, we can integrate it into the existing content without altering its meaning or flow. Here's a draft for the meta title, meta description, and body modifications:
+
+### Meta Title:
+- Original: ""Plugins | Dyte Docs""
+- Modified: ""Plugins in Android | Dyte Android Core SDK Documentation""
+
+### Meta Description:
+- Suggested Addition: ""Explore the comprehensive guide on Plugins in Android with Dyte's Android Core SDK. Learn how to effectively integrate and manage plugins in your Android applications for enhanced functionalities.""
+
+### Body Modifications:
+1. **Introduction Section**:
+   - Original: ""The meetings plugins can be accessed using `meeting.plugins`.""
+   - Modified: ""The meetings plugins in Android can be accessed using `meeting.plugins` in Dyte's Android Core SDK.""
+
+2. **Subheading ""Playing with plugins""**:
+   - Modified to: ""Playing with Plugins in Android""
+
+3. **Content under ""Playing with plugins""**:
+   - Original: ""Plugins are webviews which can be added in any view group in android.""
+   - Modified: ""Plugins in Android are webviews which can be added in any view group using Dyte's SDK.""
+
+4. **Subheading ""Active plugin""**:
+   - Modified to: ""Managing Active Plugins in Android""
+
+5. **Content under ""Active plugin""**:
+   - Original: ""To check if a `plugin` is active or not in a meeting...""
+   - Modified: ""To check if a plugin is active in an Android meeting environment...""
+
+6. **Subheading """
